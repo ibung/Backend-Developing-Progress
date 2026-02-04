@@ -10,7 +10,7 @@ This repo serves as a personal learning log, technical reference, and proof of g
 ## 🔧 Tech Stack
 - PHP (Laravel)
 - MySQL
-- REST API
+- Postman API
 - Git & GitHub
 
 ---
